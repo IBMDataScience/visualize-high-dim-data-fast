@@ -18,7 +18,7 @@
 
 1. In your project, under `Data assets`, click the data set to see a preview of the data set. <img src="https://github.com/IBMDataScience/visualize-high-dim-data-fast/blob/master/screenshots/3%20click%20data%20set%20to%20preview.png">
 
-1. Click the `Refine` blue box in the top right to open the data set with the Data Refinery tool. <img src="https://github.com/IBMDataScience/visualize-high-dim-data-fast/blob/master/screenshots/4%20click%20refine.png">
+1. Click the `Refine` blue box in the top right to open the data set with the Data Refinery tool. This step might take a little while since the 10,000 by 785 dataset is being loaded into the Data Refinery tool. <img src="https://github.com/IBMDataScience/visualize-high-dim-data-fast/blob/master/screenshots/4%20click%20refine.png">
 
 1. Once the Data Refinery tool is open, navigate to the `Visualizations` tab. <img src="https://github.com/IBMDataScience/visualize-high-dim-data-fast/blob/master/screenshots/5%20navigate%20to%20viz.png">
 
