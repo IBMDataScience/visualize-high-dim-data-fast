@@ -2,7 +2,7 @@
 
 ## Step by step instructions to reproduce viz in [blog](ADD-LINK)
 
-1. Download the MNIST handwritten digits sample data set (about 1,000 images per digit) from [here](https://ibm.box.com/s/94e4q8askq82owlnr6qxerworm6cx2sp). The file's name is `mnist_all_sample_10000.csv`. If you want to speed up results, you can use a smaller sample of about 150 images per digit [here](https://ibm.box.com/s/1voze1clvrsmfv0e127jlnad4ztzyeii).
+1. Download the MNIST handwritten digits sample data set (about 1,000 images per digit) from [here](https://ibm.box.com/s/94e4q8askq82owlnr6qxerworm6cx2sp). The file's name is `mnist_all_sample_10000.csv`. If you want to speed up results, you can use a smaller sample of about 150 images per digit [here](https://ibm.box.com/s/g8x3jii28evb5332cjzojq813xj5n6vx). 
 
 1. Create an account on Watson Studio [cloud](https://www.ibm.com/cloud/watson-studio) or download the desktop version [here](https://www.ibm.com/products/watson-studio-desktop).
 
