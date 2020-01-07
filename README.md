@@ -1,6 +1,6 @@
-# Visualize High-Dimensional Data Fast | Watson Studio: [Blog](ADD-LINK)
+# Visualize High-Dimensional Data Fast | Watson Studio: [Blog](https://towardsdatascience.com/visualize-high-dimensional-data-fast-watson-studio-ebad7e7e1b6a)
 
-## Step by step instructions to reproduce viz in [blog](ADD-LINK)
+## Step by step instructions to reproduce viz in [blog](https://towardsdatascience.com/visualize-high-dimensional-data-fast-watson-studio-ebad7e7e1b6a)
 
 1. Download the MNIST handwritten digits sample data set (about 1,000 images per digit) from [here](https://ibm.box.com/s/94e4q8askq82owlnr6qxerworm6cx2sp). The file's name is `mnist_all_sample_10000.csv`. If you want to speed up results, you can use a smaller sample of about 150 images per digit [here](https://ibm.box.com/s/g8x3jii28evb5332cjzojq813xj5n6vx). 
 
